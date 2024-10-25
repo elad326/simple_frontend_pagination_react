@@ -1,0 +1,33 @@
+יצירת מספרי עמודים עם ריאקט [ paginations  ] :
+---------------------------------------------------------
+
+לינק לסרטון :
+----------------
+https://youtu.be/IYCa1F-OWmk?si=Cu9BITdzh073Op6x
+
+זה הפלייליסט כולו :
+----------------------
+https://www.youtube.com/watch?v=IYCa1F-OWmk&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=9
+
+**חלק מהפרוייקטים הוא השתמש 
+בריאקט בגרסה הקודמת - גרסת הקלאסים 
+אז לבדוק את זה כשלוקח פרוייקט 
+
+
+התקנת ריאקט ללא השאלות 
+-----------------------
+ npx create-react-app .
+
+התקנת תלויות :
+--------------
+
+- axios : npm i axios 
+- bootsprap: npm i bootstrap 
+** צריך לשים את זה ב 
+index.js 
+import 'bootstrap/dist/css/bootstrap.min.css';
+בשביל שבוטסטראפ יהיה זמין 
+
+
+----------------
+עצרתי בדקה 10 
